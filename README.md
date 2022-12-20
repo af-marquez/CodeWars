@@ -7,4 +7,7 @@
 I will solve the problems CodeWars has to offer and use this repository as an archive
 
 ## Java
-Binary Addition
+### Fundamentals
+[Binary Addition](CodeWars/Java/Fundamentals/README.MD)
+
+Sum of odd numbers
