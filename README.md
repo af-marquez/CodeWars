@@ -10,4 +10,9 @@ I will solve the problems CodeWars has to offer and use this repository as an ar
 ### Fundamentals
 [Binary Addition](CodeWars/Java/Fundamentals/README.MD)
 
-Sum of odd numbers
+[Sum of odd numbers](CodeWars/Java/Fundamentals/Sum_Of_Odd_Numbers)
+
+[Transportation On Vacation](CodeWars/Java/Fundamentals/Transportation_On_Vacation)
+
+[Convert A String To An Array](CodeWars/Java/Fundamentals/Convert_A_String_To_An_Array/README.md)
+
