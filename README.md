@@ -8,11 +8,11 @@ I will solve the problems CodeWars has to offer and use this repository as an ar
 
 ## Java
 ### Fundamentals
-[Binary Addition](CodeWars/Java/Fundamentals/README.MD)
+[Binary Addition](https://github.com/af-marquez/CodeWars/tree/main/Java/Fundamentals/Binary_Addition)
 
-[Sum of odd numbers](CodeWars/Java/Fundamentals/Sum_Of_Odd_Numbers)
+[Sum of odd numbers](https://github.com/af-marquez/CodeWars/tree/main/Java/Fundamentals/Sum_Of_Odd_Numbers)
 
-[Transportation On Vacation](CodeWars/Java/Fundamentals/Transportation_On_Vacation)
+[Transportation On Vacation](https://github.com/af-marquez/CodeWars/tree/main/Java/Fundamentals/Transportation_On_Vacation)
 
-[Convert A String To An Array](CodeWars/Java/Fundamentals/Convert_A_String_To_An_Array/README.md)
+[Convert A String To An Array](https://github.com/af-marquez/CodeWars/tree/main/Java/Fundamentals/Convert_A_String_To_An_Array/README.md)
 
