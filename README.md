@@ -17,6 +17,7 @@
 
 > - 8 Kyu to 1 Kyu
 > - 1 Dan to 8 Dan
+
 > Why the names Kyu and Dan? The terms are borrowed from a system in Japanese martial arts, which is in turn borrowed from the game of Go. Kyu (or Kyū) indicates the number of degrees away from master level (Dan). This is why they count downward. Once you reach master level, we count upward. Black belts in martial arts are Dan level.
 
 I will solve the problems CodeWars has to offer and use this repository as an archive
@@ -32,5 +33,4 @@ I will solve the problems CodeWars has to offer and use this repository as an ar
 [Convert A String To An Array](https://github.com/af-marquez/CodeWars/tree/main/Java/Fundamentals/Convert_A_String_To_An_Array/README.md)
 
 ### 6 Kyu
-
-Roman Numerals Encoder
+[Roman Numerals Encoder](https://github.com/af-marquez/CodeWars/blob/main/Java/6_kyu/Roman_Numerals_Encoder.md)
