@@ -8,17 +8,17 @@ Write a function which takes a list of strings and returns each line prepended b
 The numbering starts at 1. The format is n: string. Notice the colon and space in between.
 
 Examples: (Input --> Output)
-´´´
+```
 [] --> []
 ["a", "b", "c"] --> ["1: a", "2: b", "3: c"]
-´´´
+```
 
 ## My thought process
 
 Steps:
-    1. Create new list
-    2. Iterate old list, copy to new list with added info
-    3. Return list
+1. Create new list
+2. Iterate old list, copy to new list with added info
+3. Return list
 
 ## My answer
 
