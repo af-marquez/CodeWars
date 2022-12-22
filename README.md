@@ -32,5 +32,7 @@ I will solve the problems CodeWars has to offer and use this repository as an ar
 
 [Convert A String To An Array](https://github.com/af-marquez/CodeWars/tree/main/Java/Fundamentals/Convert_A_String_To_An_Array/README.md)
 
+[Testing 1-2-3](https://github.com/af-marquez/CodeWars/blob/main/Java/Fundamentals/Testing_1-2-3/Testing_1-2-3.md)
+
 ### 6 Kyu
 [Roman Numerals Encoder](https://github.com/af-marquez/CodeWars/blob/main/Java/6_kyu/Roman_Numerals_Encoder.md)
