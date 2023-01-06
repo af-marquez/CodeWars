@@ -5,13 +5,13 @@ Check to see if a string has the same amount of 'x's and 'o's. The method must r
 
 Examples input/output:
 
-´´´
+```
 XO("ooxx") => true
 XO("xooxx") => false
 XO("ooxXm") => true
 XO("zpzpzpp") => true // when no 'x' and 'o' is present should return true
 XO("zzoo") => false
-´´´
+```
 
 ## My thought process
 Steps:
