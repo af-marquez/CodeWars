@@ -36,5 +36,8 @@ I will solve the problems CodeWars has to offer and use this repository as an ar
 
 [Opposites Attract](https://github.com/af-marquez/CodeWars/tree/main/Java/Fundamentals/Opposites_Attract)
 
+### 7 Kyu
+[Exes and Ohs](https://github.com/af-marquez/CodeWars/tree/main/Java/7_kyu/Exes_And_Ohs)
+
 ### 6 Kyu
 [Roman Numerals Encoder](https://github.com/af-marquez/CodeWars/blob/main/Java/6_kyu/Roman_Numerals_Encoder.md)
