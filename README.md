@@ -41,5 +41,9 @@ I will solve the problems CodeWars has to offer and use this repository as an ar
 
 [The highest profit wins!](https://github.com/af-marquez/CodeWars/blob/main/Java/7_kyu/The_Highest_Profit_Wins/README.md)
 
+[Sum of the first nth term of Series](https://github.com/af-marquez/CodeWars/tree/main/Java/7_kyu/Sum_of_the_first%20nth_term_of_Series)
+
+
+
 ### 6 Kyu
 [Roman Numerals Encoder](https://github.com/af-marquez/CodeWars/blob/main/Java/6_kyu/Roman_Numerals_Encoder.md)
