@@ -46,7 +46,7 @@ I will solve the problems CodeWars has to offer and use this repository as an ar
 [Sum of the first nth term of Series](https://github.com/af-marquez/CodeWars/tree/main/Java/7_kyu/Sum_of_the_first%20nth_term_of_Series)
 
 ### 6 Kyu
-[Roman Numerals Encoder](https://github.com/af-marquez/CodeWars/blob/main/Java/6_kyu/Roman_Numerals_Encoder.md)
+[Roman Numerals Encoder](https://github.com/af-marquez/CodeWars/blob/main/Java/6_kyu/Roman_Numerals_Encoder)
 
 [Your order, please](https://github.com/af-marquez/CodeWars/tree/main/Java/6_kyu/Your_order_please)
 
