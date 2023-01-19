@@ -28,28 +28,28 @@ Steps:
 
     import java.util.*;
 
-public class FindOdd {
-	public static int findIt(int[] a) {
+    public class FindOdd {
+        public static int findIt(int[] a) {
 
-    List<Integer> list = new ArrayList<Integer>();
-    int c = 0;
-    
-    for(int i = 0; i < a.length; i++){
-      if(!list.contains(a[i])){
-        list.add(a[i]);
-          for(int j = 0; j < a.length; j++){
-            if(a[i] == a[j] ){
-              c++;
+            List<Integer> list = new ArrayList<Integer>();
+            int c = 0;
+            
+            for(int i = 0; i < a.length; i++){
+                if(!list.contains(a[i])){
+                    list.add(a[i]);
+                    for(int j = 0; j < a.length; j++){
+                        if(a[i] == a[j] ){
+                        c++;
+                        }
+                    }
+                    if(c % 2 != 0){
+                    return a[i];
+                    }
+                }
             }
-          }
-        if(c % 2 != 0){
-          return a[i];
+            return 0;
         }
-      }
     }
-  	return 0;
-  }
-}
     
 </details>
 
