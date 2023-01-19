@@ -22,8 +22,8 @@
 
 I will solve the problems CodeWars has to offer and use this repository as an archive
 
-## Java
-### Fundamentals
+# Java
+## Fundamentals
 [Binary Addition](https://github.com/af-marquez/CodeWars/tree/main/Java/Fundamentals/Binary_Addition)
 
 [Sum of odd numbers](https://github.com/af-marquez/CodeWars/tree/main/Java/Fundamentals/Sum_Of_Odd_Numbers)
@@ -36,18 +36,20 @@ I will solve the problems CodeWars has to offer and use this repository as an ar
 
 [Opposites Attract](https://github.com/af-marquez/CodeWars/tree/main/Java/Fundamentals/Opposites_Attract)
 
-### 8 Kyu
+## 8 Kyu
 
-### 7 Kyu
+## 7 Kyu
 [Exes and Ohs](https://github.com/af-marquez/CodeWars/tree/main/Java/7_kyu/Exes_And_Ohs)
 
 [The highest profit wins!](https://github.com/af-marquez/CodeWars/blob/main/Java/7_kyu/The_Highest_Profit_Wins/README.md)
 
 [Sum of the first nth term of Series](https://github.com/af-marquez/CodeWars/tree/main/Java/7_kyu/Sum_of_the_first%20nth_term_of_Series)
 
-### 6 Kyu
+## 6 Kyu
 [Roman Numerals Encoder](https://github.com/af-marquez/CodeWars/blob/main/Java/6_kyu/Roman_Numerals_Encoder)
 
 [Your order, please](https://github.com/af-marquez/CodeWars/tree/main/Java/6_kyu/Your_order_please)
 
+## 5 Kyu
 
+[Simple Pig Latin](https://github.com/af-marquez/CodeWars/blob/main/Java/5_kyu/Simple_Pig_Latin/README.md)
