@@ -39,15 +39,14 @@ Steps:
                 //adjust array size considering extra letters
                 //if it's punctuation mark
                 if(words[i].charAt(0) >= 33 && words[i].charAt(0) <= 64 && words[i].length() == 1){
-                char[] currentWordChars = {words[i].charAt(0)};
-                //convert word to string
-                newWord = String.valueOf(currentWordChars);
+                  char[] currentWordChars = {words[i].charAt(0)};
+                  //convert word to string
+                  newWord = String.valueOf(currentWordChars);
                 }else{
-
-                char[] currentWordChars = new char[words[i].length() + 2];    
-                //save first char of the word
-                firstChar = words[i].charAt(0);
-                //create new word
+                  char[] currentWordChars = new char[words[i].length() + 2];    
+                  //save first char of the word
+                  firstChar = words[i].charAt(0);
+                  //create new word
                 for(j = 0; j < words[i].length() - 1; j++ ){    
                     currentWordChars[j] = words[i].charAt(j + 1);
                 }
@@ -57,15 +56,15 @@ Steps:
                 currentWordChars[j + 2] = 'y';
                 //convert word to string
                 newWord = String.valueOf(currentWordChars);
-                }
+             }
 
-                newString = newString + newWord;        
-                //in case it needs space between words
-                if(i != words.length - 1){
-                newString = newString + " ";
-                }
+            newString = newString + newWord;        
+            //in case it needs space between words
+            if(i != words.length - 1){
+            newString = newString + " ";
             }
-            return newString;
+          }
+          return newString;
         }
     }
     
