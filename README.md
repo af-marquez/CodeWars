@@ -50,6 +50,8 @@ I will solve the problems CodeWars has to offer and use this repository as an ar
 
 [Your order, please](https://github.com/af-marquez/CodeWars/tree/main/Java/6_kyu/Your_order_please)
 
+[Find the odd int](https://github.com/af-marquez/CodeWars/tree/main/Java/6_kyu/Find_the_odd_int)
+
 ## 5 Kyu
 
 [Simple Pig Latin](https://github.com/af-marquez/CodeWars/blob/main/Java/5_kyu/Simple_Pig_Latin/README.md)
