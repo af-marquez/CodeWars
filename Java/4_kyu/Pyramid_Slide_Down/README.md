@@ -24,6 +24,7 @@ My tests include some extraordinarily high pyramids so as you can guess, brute-f
 ## My thought process
 
 Steps:
+
   After a long time and bit research the easiest away to approach this problem should be something like this 
   1. We should start from the base of the pyramid (ignoring the first level) going all the way to the top
   2. On each element of the current level, we put sum of the element with the biggest adjacent number of the row below
