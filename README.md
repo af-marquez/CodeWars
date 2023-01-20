@@ -57,3 +57,8 @@ I will solve the problems CodeWars has to offer and use this repository as an ar
 [Simple Pig Latin](https://github.com/af-marquez/CodeWars/blob/main/Java/5_kyu/Simple_Pig_Latin/README.md)
 
 [Product of consecutive Fib numbers](https://github.com/af-marquez/CodeWars/tree/main/Java/5_kyu/Product_of_consecutive_Fib_numbers)
+
+## 4 Kyu
+
+[Pyramid Slide Down](https://github.com/af-marquez/CodeWars/tree/main/Java/4_kyu/Pyramid_Slide_Down)
+
