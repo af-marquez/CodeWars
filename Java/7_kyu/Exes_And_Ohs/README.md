@@ -54,7 +54,7 @@ Steps:
 ## The Best answer to this problem
 
 <details> 
-  <summary>Click here to see my answer</summary>
+  <summary>Click here to see the answer</summary>
 
      public class XO {
       
