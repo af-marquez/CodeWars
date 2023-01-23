@@ -38,6 +38,8 @@ I will solve the problems CodeWars has to offer and use this repository as an ar
 
 ## 8 Kyu
 
+[Third Angle of a Triangle](https://github.com/af-marquez/CodeWars/tree/main/Java/8_kyu/Third_Angle_of_a_Triangle)
+
 ## 7 Kyu
 [Exes and Ohs](https://github.com/af-marquez/CodeWars/tree/main/Java/7_kyu/Exes_And_Ohs)
 
