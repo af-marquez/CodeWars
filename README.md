@@ -62,3 +62,8 @@ I will solve the problems CodeWars has to offer and use this repository as an ar
 
 [Pyramid Slide Down](https://github.com/af-marquez/CodeWars/tree/main/Java/4_kyu/Pyramid_Slide_Down)
 
+## 3 Kyu
+
+## 2 Kyu
+
+## 1 Kyu
