@@ -60,6 +60,8 @@ I will solve the problems CodeWars has to offer and use this repository as an ar
 
 [Product of consecutive Fib numbers](https://github.com/af-marquez/CodeWars/tree/main/Java/5_kyu/Product_of_consecutive_Fib_numbers)
 
+[Pick peaks](https://github.com/af-marquez/CodeWars/tree/main/Java/5_kyu/Pick_peaks)
+
 ## 4 Kyu
 
 [Pyramid Slide Down](https://github.com/af-marquez/CodeWars/tree/main/Java/4_kyu/Pyramid_Slide_Down)
