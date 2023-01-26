@@ -20,14 +20,54 @@ Have fun!
 ## My thought process
 
 Steps:
-1. 
+1. Iterate array in case it is not empty, else return
+2. Check if current num is bigger than prev and next num
+3. Check if it is a plateau peak
+3. In case it is, add to map
+4. In case it is not, continue iteration
+5. Return map
 
 ## My answer
 
 <details> 
   <summary>Click here to see my answer</summary>
 
-    
+    import java.util.*;
+
+    public class PickPeaks {
+        
+        public static Map<String,List<Integer>> getPeaks(int[] arr) {
+            
+          Map<String, List<Integer>> map = new HashMap<>();
+          ArrayList<Integer> arrayPos = new ArrayList<>();
+          ArrayList<Integer> arrayPeak = new ArrayList<>();
+          
+          int prev = 0;
+          int next = 0;
+          int j = 0;
+          
+          for(int i = 1; i < arr.length - 1;i++){
+            prev = arr[i - 1];
+            next = arr[i + 1];
+            if(arr[i] > prev && arr[i] > next){
+              arrayPos.add(i);
+              arrayPeak.add(arr[i]);
+            } else if(arr[i] > prev && arr[i]== next){
+                j = i;        
+                while(i+1 < arr.length-1 && arr[i]== arr[i + 1]){
+                  i++;
+                }
+                if(arr[i]>arr[i + 1]){
+                  arrayPos.add(j);
+                  arrayPeak.add(arr[j]);
+                }  
+              }
+          }
+          map.put("pos", arrayPos);
+          map.put("peaks", arrayPeak);
+          return map;
+        }
+    }
     
 </details>
 
@@ -36,7 +76,33 @@ Steps:
 <details> 
   <summary>Click here to see the answer</summary>
 
-    
+    import java.util.*;
+
+    public class PickPeaks {
+        
+        public static Map<String,List<Integer>> getPeaks(int[] arr) {
+            
+            Map<String,List<Integer>> ans = new HashMap<String,List<Integer>>() {{
+                put("pos",   new ArrayList<Integer>() );
+                put("peaks", new ArrayList<Integer>() );
+            }};
+            int posMax = 0;
+            boolean matchAsc = false;
+            
+            for (int i = 1 ; i < arr.length ; i++) {
+                if (arr[i-1] < arr[i]) {
+                    matchAsc = true;
+                    posMax = i;
+                }
+                if (matchAsc && arr[i-1] > arr[i]) {
+                    matchAsc = false;
+                    ans.get("pos").add(posMax);
+                    ans.get("peaks").add(arr[posMax]);
+                }
+            }
+            return ans;
+        }
+    }
     //by Blind4Basics
     
 </details>
