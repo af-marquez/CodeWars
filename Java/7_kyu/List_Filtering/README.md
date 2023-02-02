@@ -12,10 +12,9 @@ Kata.filterList(List.of(1, 2, "a", "b", "aasf", "1", "123", 231)) => List.of(1, 
 
 ## My thought process
 Steps:
-1. Convert the input string to lower case
-2. Initialize variables to count the number of 'x's and 'o's
-3. Loop through the characters in the string
-4. Return true if the number of 'x's and 'o's are equal, false otherwise
+1. Create new list
+2. Iterate old list and add to new list in case it's a instance of integer
+3. Return new list
 
 ## My answer
 
