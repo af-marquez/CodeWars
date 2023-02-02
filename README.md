@@ -40,6 +40,8 @@ I will solve the problems CodeWars has to offer and use this repository as an ar
 
 [Third Angle of a Triangle](https://github.com/af-marquez/CodeWars/tree/main/Java/8_kyu/Third_Angle_of_a_Triangle)
 
+[Count by X](https://github.com/af-marquez/CodeWars/tree/main/Java/8_kyu/Count_by_X)
+
 ## 7 Kyu
 [Exes and Ohs](https://github.com/af-marquez/CodeWars/tree/main/Java/7_kyu/Exes_And_Ohs)
 
