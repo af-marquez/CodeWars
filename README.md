@@ -42,6 +42,8 @@ I will solve the problems CodeWars has to offer and use this repository as an ar
 
 [Count by X](https://github.com/af-marquez/CodeWars/tree/main/Java/8_kyu/Count_by_X)
 
+[Convert number to reversed array of digits](https://github.com/af-marquez/CodeWars/tree/main/Java/8_kyu/Convert_number_to_reversed%20array_of_digits)
+
 ## 7 Kyu
 [Exes and Ohs](https://github.com/af-marquez/CodeWars/tree/main/Java/7_kyu/Exes_And_Ohs)
 
