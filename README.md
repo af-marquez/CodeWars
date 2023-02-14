@@ -60,6 +60,8 @@ I will solve the problems CodeWars has to offer and use this repository as an ar
 
 [Find the odd int](https://github.com/af-marquez/CodeWars/tree/main/Java/6_kyu/Find_the_odd_int)
 
+[Create Phone Number](https://github.com/af-marquez/CodeWars/tree/main/Java/6_kyu/Create_Phone_Number)
+
 ## 5 Kyu
 
 [Simple Pig Latin](https://github.com/af-marquez/CodeWars/blob/main/Java/5_kyu/Simple_Pig_Latin/README.md)
