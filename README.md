@@ -62,6 +62,8 @@ I will solve the problems CodeWars has to offer and use this repository as an ar
 
 [Create Phone Number](https://github.com/af-marquez/CodeWars/tree/main/Java/6_kyu/Create_Phone_Number)
 
+[Does my number look big in this?](https://github.com/af-marquez/CodeWars/tree/main/Java/6_kyu/Does_my_number_look_big_in_this)
+
 ## 5 Kyu
 
 [Simple Pig Latin](https://github.com/af-marquez/CodeWars/blob/main/Java/5_kyu/Simple_Pig_Latin/README.md)
